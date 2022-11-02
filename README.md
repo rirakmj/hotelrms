@@ -15,4 +15,9 @@
 5) 코드가 중복이 많고 정리되어 있지 않다.
 7. 느낀점: 앞으로도 크고 작은 프로젝트를 통해 코딩 기술을 점차적으로 익혀야겠다고 생각했다. 웹이나 앱 상의 버튼 하나 만드는 데 이렇게 정교한 작업이 들어가야 한다는 것이 매우 놀라웠다.
 8. 구현 시스템 뷰
-
+![image](https://user-images.githubusercontent.com/114123373/199413458-ed0ef3f0-8e1b-415f-b9f8-60d180880698.png)
+![image](https://user-images.githubusercontent.com/114123373/199413514-1e6dd79a-6d17-4b07-b05f-94c34eddbdb8.png)
+![image](https://user-images.githubusercontent.com/114123373/199413568-f044f52d-732f-404c-9f2d-4f7a0a2acf8a.png)
+![image](https://user-images.githubusercontent.com/114123373/199413649-a11e955d-f93e-4d0d-8938-d62468ece751.png)
+![image](https://user-images.githubusercontent.com/114123373/199413798-9f9b28ef-68ae-4d17-9891-93c37f46a666.png)
+![image](https://user-images.githubusercontent.com/114123373/199413870-136e4e8c-1669-4f07-97b3-5f528a5f0318.png)
